@@ -54,6 +54,9 @@ Para executar as operações, use os seguintes comandos no terminal:
 # Exemplo para soma
 Soma:  8
 
+#Exenplo para Subtração
+Subtração:  6
+
 # Exemplo para multiplicação
 0 + 6 = 6
 6 + 6 = 12
@@ -73,6 +76,7 @@ Soma:  8
 Resultado: Repetiu 6 Vezes
 Resto: 2
 ```
+
 ## Observação sobre a divisão
 
 A operação de divisão implementada neste projeto trabalha apenas com **divisão inteira**.
