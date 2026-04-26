@@ -97,4 +97,4 @@ O resto pode ser utilizado para representar a parte decimal da divisão, sendo i
 ```
 ## Autor
 
-Moss
+Álvaro
